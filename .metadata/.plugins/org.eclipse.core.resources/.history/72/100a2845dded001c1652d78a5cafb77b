@@ -1,0 +1,12 @@
+package method;
+import main;
+
+public class method {
+	
+	public void addition() {
+
+		System.out.println(num1+num2);
+	}
+	
+	
+}

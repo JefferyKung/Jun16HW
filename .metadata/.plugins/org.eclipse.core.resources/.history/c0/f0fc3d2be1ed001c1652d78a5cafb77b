@@ -1,0 +1,13 @@
+//package method;
+//import main;
+//
+//public class method {
+//	
+//	public addition() {
+//        double sum;
+//		return num1+num2;
+//		System.out.println(sum);
+//	}
+//	
+//	
+//}

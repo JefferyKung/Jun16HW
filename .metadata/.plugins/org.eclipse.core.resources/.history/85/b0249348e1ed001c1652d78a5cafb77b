@@ -1,0 +1,11 @@
+package method;
+import main;
+
+public class method {
+	
+	public static double addition(double x,double y) {
+		return x+y;
+	}
+	
+	
+}

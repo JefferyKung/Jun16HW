@@ -1,0 +1,24 @@
+package method;
+import main;
+
+public class method {
+	
+	private static double addition(double num1, double num2) {
+		// TODO Auto-generated method stub
+		return num1+num2;
+	}
+	private static double subtraction(double num1, double num2) {
+		// TODO Auto-generated method stub
+		return num1-num2;
+	}
+	private static double multiplication(double num1, double num2) {
+		// TODO Auto-generated method stub
+		return num1*num2;
+	}
+	private static double division(double num1, double num2) {
+		// TODO Auto-generated method stub
+		return num1/num2;
+	}
+	
+	
+}
